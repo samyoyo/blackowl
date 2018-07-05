@@ -14,7 +14,7 @@ $ pip install -r requirements.txt
 ```
 
 
-### How to use
+### How to use ([demo](https://youtu.be/AUJwK9-V4J0))
 ```bash
 $ git clone https://github.com/qqwaszx/blackowl.git
 $ python main.py
@@ -24,13 +24,13 @@ $ python main.py
 
 
 ### Modules /core/modules/
-+ CMS Gathering
-+ Email to Domain
-+ Hackedmail
-+ IP Geolocation
-+ Namech_k
-+ Subdomain Search
-+ Whois Domain
++ CMS Gathering : `CMS Detection`
++ Email to Domain : `Get domain with email`
++ Hackedmail : `Check if email as been hacked`
++ IP Geolocation : `Obtain IP geolocation information`
++ Namech_k : `Get info on a specific person with his username`
++ Subdomain Search : `Search for subdomain`
++ Whois Domain : `Whois information for domain`
 
 #### Write module
 + Create new module:
