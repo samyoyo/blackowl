@@ -63,7 +63,7 @@ class module_element(object):
             if len(regex) == 0:
                 print "{} Empty domain result for email: {}{}{}".format(C.ERROR, C.RED, email, C.END)
             else:
-                print "{} Domains found for email: {}\n".format(C.OK, C.GREEN, email, C.END)
+                print "{} Domains found for email: {}\n".format(C.OK, email)
                 for line in regex:
                     if line.strip() != '':
                         if line not in self.export and '.' in line:
