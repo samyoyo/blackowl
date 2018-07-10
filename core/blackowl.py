@@ -12,11 +12,11 @@ banner = """
                y__               __y
                'MOOAooOOOOOOOooOOOM`
                  O\_@@/'O^O`\@@/OO
-                 Os.~`\\\|///'~ sO                            .:: Black Owl ::.
+                 Os.~`\\\|///'~ sO
                  !Oooo_)\|/(_oooO!
-                gOO\z\z) Y (z\z\OOs         |=------------------=[{} OSINT {}]=-----------------=|
+                gOO\z\z) Y (z\z\OOs         |=----------------=[{} Black Owl {}]=---------------=|
                gObt_t_t_____t_t_tdOs        |=------------=[{} version: 10.05.18 {}]=-----------=|
-              iOO` [ [ [ [ [ [ [ [YOb       |=-----=[{} By:'qwaszx' <  TW:@qqwaszx_  > {}]=-----=|
+              iOO` [ [ [ [ [ [ [ [YOb       |=-----=[{} by:'qwaszx' <qqwaszx(at)pm.me> {}]=-----=|
 []#####D=s_   OOO~P'P'P'P'P'P'P'P'POOb
 [],    ~~[]   OOOz\z\z\z\z\z\z\z\z\OOO
 []]       ]   !OOO_t_t_t_t_t_t_t_t_OOO

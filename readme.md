@@ -2,21 +2,19 @@
 
 This is a simple tool to gather information, based on [Operative-Framework](https://github.com/graniet/operative-framework) (Thanks [@graniet75](https://twitter.com/graniet75))
 
+![version](https://img.shields.io/badge/version-10.05.18-red.svg) [![twitter](https://img.shields.io/badge/twitter-@qqwaszx_-blue.svg)](https://twitter.com/qqwaszx_)
+
 
 ### Requirements
 + requests
 + pythonwhois
 + beautifulsoup4
 
-##### Install requirements
+
+### How to use ([demo](https://youtu.be/qyTDaS4_qfA))
 ```bash
+$ git clone https://github.com/qqwaszx/blackowl.git ; cd blackowl
 $ pip install -r requirements.txt
-```
-
-
-### How to use ([demo](https://youtu.be/AUJwK9-V4J0))
-```bash
-$ git clone https://github.com/qqwaszx/blackowl.git
 $ python main.py
 
 : blackowl > help
